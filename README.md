@@ -38,7 +38,5 @@ Build a strong foundation in Python and create practical projects while maintain
 ...
 - [ ] Day 30
 
-## 📖 Reference
-Course: https://github.com/Asabeneh/30-Days-Of-Python
 
 Happy Coding! 🚀
