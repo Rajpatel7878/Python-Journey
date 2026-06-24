@@ -2,7 +2,7 @@
 
 Welcome to my Python learning journey!
 
-This repository documents my progress while following the **30 Days of Python** roadmap by Asabeneh Yetayeh.
+This repository documents my progress while following the **30 Days of Python** roadmap.
 
 ## 📚 Topics Covered
 - Variables and Data Types
